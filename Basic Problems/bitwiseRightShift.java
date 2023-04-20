@@ -5,7 +5,7 @@ Do a>>b.
 Example 1:
 
 Input:
-a = 5
+a = 6
 b = 2
 Output: 
 1 
