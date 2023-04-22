@@ -6,7 +6,7 @@ Example 1:
 
 Input:
 a = 6
-b = 2
+b = 7
 Output: 
 1 
 Explanation: 5>>2 = 1. */
