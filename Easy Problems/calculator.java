@@ -14,12 +14,12 @@ Note : You don't have to print any new lines after printing the output.
 Example 1:
 
 Input:
-a = 1
+a = 4
 b = 2
 operator = 3
 Output: 
 2
-Explanation: 1 * 2 = 2 */
+Explanation: 4 * 2 = 8 */
 
 
 public static void utility(int a, int b, int operator){
