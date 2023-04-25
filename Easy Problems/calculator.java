@@ -15,11 +15,11 @@ Example 1:
 
 Input:
 a = 4
-b = 2
+b = 5
 operator = 3
 Output: 
 2
-Explanation: 4 * 2 = 8 */
+Explanation: 4 * 5 = 20 */
 
 
 public static void utility(int a, int b, int operator){
