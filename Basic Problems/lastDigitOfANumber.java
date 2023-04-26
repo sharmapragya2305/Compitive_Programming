@@ -3,9 +3,9 @@
 Example 1:
 
 Input:
-N = 10
+N = 11
 Output: 
-0 */
+1 */
 
 public static void utility(int n){
 
