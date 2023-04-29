@@ -17,7 +17,7 @@ Input:
 a = 4
 b = 5
 operator = 3
-Output: 
+Output 
 2
 Explanation: 4 * 5 = 20 */
 
