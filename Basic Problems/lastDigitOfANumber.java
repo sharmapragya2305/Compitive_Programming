@@ -1,4 +1,4 @@
-/*Given an integer N. Write a program to find last digit of the number.
+/*Given an integer N. Write a program to find last digit of the num.
 
 Example 1:
 
