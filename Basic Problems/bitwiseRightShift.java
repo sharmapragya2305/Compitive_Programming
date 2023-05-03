@@ -5,8 +5,8 @@ Do a>>b.
 Example 1:
 
 Input:
-a = 6
-b = 7
+a = 7
+b = 8
 Output: 
 1 
 Explanation: 5>>2 = 1. */
