@@ -4,11 +4,11 @@ A prime number is a number that is divisible by 1 and itself only.
 Example 2:
 
 Input:
-n = 17
+n = 13
 Output: 
 True
 Explanation:
-17 is  divisible by  only 1 and 17.
+17 is  divisible by  only 1 and 13.
 So it's a prime number. */
 
 public static boolean prime(int n){
