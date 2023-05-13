@@ -11,7 +11,7 @@ If operator equals to any another number, print "Invalid Input"(without quotes).
 Note : You don't have to print any new lines after printing the output.
 
 
-Example 2:
+Example 3:
 
 Input:
 a = 4
