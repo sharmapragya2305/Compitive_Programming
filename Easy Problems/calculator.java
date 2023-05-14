@@ -1,4 +1,4 @@
-/*Given two numbers a and b; you need to perform basic mathematical operation on them. You will be provided an integer named as operator. 
+/*Given two numbers a and b; you need to perform basic mathematical operation o them. You will be provided an integer named as operator. 
 
 If operator equals to 1 add a and b, then print the result.
 
