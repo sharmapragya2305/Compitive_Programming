@@ -1,6 +1,6 @@
 /* Given an integer N. Write a program to print all the divisors of N.
 
-Example 1:
+Example 2:
 
 Input:
 N = 12
