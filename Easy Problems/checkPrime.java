@@ -1,7 +1,7 @@
 /* Given an integer n check if n is prime or not.
 A prime number is a number that is divisible by 1 and itself only.
 
-Example 4:
+Example 1:
 
 Input:
 n = 13
