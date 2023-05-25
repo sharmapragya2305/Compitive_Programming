@@ -1,5 +1,5 @@
 /* Given two numbers A and B. The task is to find the GCD of  A and B.
-The GCD of two numbers is the largest number that can divide both A and B perfectly. */
+The GCD of two numbers is the largest number that can divide both A and B perfectly */
 
 
 public static int gcd(int a, int b){
