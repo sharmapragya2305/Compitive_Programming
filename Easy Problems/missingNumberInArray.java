@@ -1,0 +1,21 @@
+/* Given an array of size N-1 such that it only contains distinct integers in the range of 1 to N. Find the missing element.
+
+Example 1:
+
+Input:
+N = 5
+A[] = {1,2,3,5}
+Output: 4*/
+
+class Solution {
+    int missingNumber(int array[], int n) {
+        // Your Code Here
+         int p = (n*(n+1))/2;
+       int sum = 0;
+       for(int num:array){
+           sum += num;
+       }
+       
+    return p-sum;
+    }
+}
