@@ -1,4 +1,4 @@
-/*Design  class as described.
+/*Design a class as described.
 
 class name : Addition
 function: 1
