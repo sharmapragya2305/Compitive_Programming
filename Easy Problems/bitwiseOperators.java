@@ -1,4 +1,4 @@
-/* Bitwis operators are useful when we want to work with bits. Here, we'll take a look at them.
+/* Bitwise operators are useful when we want to work with bits. Here, we'll take a look at them.
 
 Given three positive integers a, b and c. Your task is to perform some bitwise operations on them as given below:
 1. d = a ^ a
