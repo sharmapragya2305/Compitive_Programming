@@ -1,7 +1,7 @@
 /* Given an integer N. Write a program to return the factorial of N.
 Note: 0 factorial is equal to 1.
 
-Example 4:
+Example 5:
 
 Input:
 N = 10
