@@ -5,7 +5,7 @@ Note: The low and high are inclusive.
 
 Implement the partition() and quickSort() functions to sort the array.
 
-Example 1:
+Example 2:
 
 Input: 
 N = 5 
