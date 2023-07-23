@@ -1,6 +1,6 @@
 /* Given an array A of N elements. The task is to count number of even and odd elements in the array.
 
-Example 2:
+Example 3:
 
 Input:
 5
