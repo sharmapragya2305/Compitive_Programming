@@ -19,7 +19,7 @@ Given a roman numeral, convert it to an integer.
 
  
 
-Example 1:
+Example 2:
 
 Input: s = "III"
 Output: 3
