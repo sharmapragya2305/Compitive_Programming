@@ -2,7 +2,7 @@
 
 Before submitting code, verify it by running offline. Does your square visually looks like a square?
 
-Example 1:
+Example 2:
 
 Input:
 S = 4
