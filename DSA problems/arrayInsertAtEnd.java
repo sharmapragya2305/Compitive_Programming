@@ -3,7 +3,7 @@
 You are given an array arr. The size of the array is given by sizeOfArray. You need to insert an element at the end.
 Array already have the sizeofarray -1 elements.
 
-Example 1:
+Example 2:
 
 Input:
 sizeOfArray = 6
