@@ -1,7 +1,7 @@
 /* Given an array arr[] of N positive integers. Push all the zeros of the given array to the right end of the array while maintaining the order of non-zero elements.
 
 
-Example 2:
+Example 1:
 
 Input:
 N = 5
