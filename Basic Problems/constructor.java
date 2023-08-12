@@ -1,4 +1,4 @@
-/* Design a class as described below.
+/*Design a class as described below.
 
 class name : User
 instance variable: name(String)
