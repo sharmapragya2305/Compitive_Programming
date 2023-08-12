@@ -1,7 +1,7 @@
 /* The task is to complete the insert() function which is used to implement Insertion Sort.
 
 
-Example 1:
+Example 2:
 
 Input:
 N = 5
