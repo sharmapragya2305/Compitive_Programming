@@ -2,7 +2,7 @@
 Do a>>b.
  
 
-Example 1:
+Example 2:
 
 Input:
 a = 7
