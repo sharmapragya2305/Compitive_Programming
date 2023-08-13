@@ -1,6 +1,6 @@
 /* Given an array Arr of size N, print second largest distinct element from an array.
 
-Example 1:
+Example 2:
 
 Input: 
 N = 6
