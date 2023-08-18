@@ -2,7 +2,7 @@
 
  
 
-Example 1:
+Example 2:
 
 Input: nums = [1,1,0,1,1,1]
 Output: 3
