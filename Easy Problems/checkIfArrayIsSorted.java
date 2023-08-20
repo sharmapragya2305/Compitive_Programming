@@ -1,6 +1,6 @@
 /* Given an array arr[] of size N, check if it is sorted in non-decreasing order or not. 
 
-Example 3:
+Example 1:
 
 Input:
 N = 5
