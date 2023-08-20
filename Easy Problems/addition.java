@@ -1,7 +1,7 @@
 /*Design a class as described.
 
 class name : Addition
-function: 1
+function: 2
       function name : add
       parameters : a(int), b(int)
       return type: int
