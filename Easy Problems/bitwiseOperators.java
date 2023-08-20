@@ -8,7 +8,7 @@ Given three positive integers a, b and c. Your task is to perform some bitwise o
 5. h = ~e
 Note: ^ is for xor.
 
-Example 1:
+Example 2:
 
 Input:
 4 8 2
