@@ -1,6 +1,6 @@
 /*Given two strings S1 and S2 consisting of only lowercase characters whose anagrams are almost equal. The task is to count the number of characters which needs to be edited(delete) to make S1 equal to S2.
 
-Example 2:
+Example 1:
 
 Input:
 madame
