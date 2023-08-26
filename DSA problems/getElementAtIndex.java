@@ -1,6 +1,6 @@
 /* You are given an array arr(0-based indexing). The size of the array is given by n. You need to get the element at index i and return it. If no element exists at i then return -1.
 
-Example 1:
+Example 2:
 
 Input:
 n = =6
