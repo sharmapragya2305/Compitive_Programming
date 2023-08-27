@@ -1,7 +1,7 @@
 /* Given an array A[] of size n. The task is to find the largest element in it.
  
 
-Example 1:
+Example 2:
 
 Input:
 n = 5
