@@ -2,7 +2,7 @@
 
 You are given an array arr(0-based index). The size of the array is given by sizeOfArray. You need to insert an element at given index.
 
-Example 1:
+Example 2:
 
 Input:
 sizeOfArray = 6
