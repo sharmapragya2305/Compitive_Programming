@@ -1,4 +1,4 @@
-/* You are given a array arr(0-based indexing). The size of the array is given by n. You need to delete an element at given index and print the modified array. The arr[i] of array is initially set to i+1.
+/* You are given an array arr(0-based indexing). The size of the array is given by n. You need to delete an element at given index and print the modified array. The arr[i] of array is initially set to i+1.
 Deletion means you need to shift all the elements after that index to the left by 1 position and set the last element as zero.
 
 Example 2:
