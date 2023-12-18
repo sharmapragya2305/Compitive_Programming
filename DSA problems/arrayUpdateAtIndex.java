@@ -2,7 +2,7 @@
 
 NOTE THAT: You only have to update elements, you don't need to print or return anything. 
 
-Example 3:
+Example 2:
 
 Input:
 n = 5
