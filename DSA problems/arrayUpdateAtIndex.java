@@ -1,4 +1,4 @@
-/* You are given an array arr(0-based indexing). The size of the array is given by n. You need to update an element at the given index. The arr[i] of the array is initially set to i+1.
+/* You are given a array arr(0-based indexing). The size of the array is given by n. You need to update an element at the given index. The arr[i] of the array is initially set to i+1.
 
 NOTE THAT: You only have to update elements, you don't need to print or return anything. 
 
