@@ -1,6 +1,6 @@
 /* Given an array a[ ] of size N. The task is to check if array is sorted or not. A sorted array can either be increasingly sorted or decreasingly sorted. Also consider duplicate elements to be sorted.
 
-Example 3:
+Example 2:
 
 Input:
 N = 5
