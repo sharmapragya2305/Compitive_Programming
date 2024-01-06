@@ -1,5 +1,5 @@
 /* Given an Integer N and a list arr. Sort the array using bubble sort algorithm.
-Example 1:
+Example 2:
 
 Input: 
 N = 5
