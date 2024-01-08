@@ -2,7 +2,7 @@
 1. Each student gets exactly one packet.
 2. The difference between maximum number of chocolates given to a student and minimum number of chocolates given to a student is minimum.
 
-Example 2:
+Example 1:
 
 Input:
 N = 8, M = 5
