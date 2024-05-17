@@ -2,7 +2,7 @@
 
 Note: New line will be added by the driver code
 
-Example 2:
+Example 1:
 
 Input:
 n = 5534
