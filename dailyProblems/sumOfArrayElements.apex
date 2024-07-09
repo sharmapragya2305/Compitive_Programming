@@ -14,6 +14,6 @@ public class sumOfArrayElements
 /* 
 anonymous window
 List<Integer> myArray = new List<Integer>{11, 23, 37, 49, 50};
-Integer max = maximumInArray.maxElement(myArray);
-System.debug('Sum of array elements: ' + max);
+Integer sum = sumOfArrayElements.sumOfElements(myArray);
+System.debug('Sum of array elements: ' + sum);
 */
