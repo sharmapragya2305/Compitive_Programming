@@ -6,3 +6,7 @@ WHERE Account.Name LIKE 'B%'
 Select Id , FirstName , LastName , AccountId
 FROM Contact
 where Account.Name LIKE 'B%'
+
+Select Id , Title , Body , ParentId
+FROM Note
+where Parent.Type='Account' AND Parent.Name LIKE 'B%'
