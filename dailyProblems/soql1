@@ -1,0 +1,8 @@
+/* write the query in SOQL to get all the opportunities , contacts , notes related to an account where account name starts with B. */
+SELECT Id, Name, Amount, AccountId
+FROM Opportunity
+WHERE Account.Name LIKE 'B%'
+
+Select Id , FirstName , LastName , AccountId
+FROM Contact
+where Account.Name LIKE 'B%'
