@@ -1,0 +1,3 @@
+/* Insert a new Contact record */ 
+Contact myct = new Contact(FirstName = 'Rajni' , LastName='Sharma');
+insert myct;
