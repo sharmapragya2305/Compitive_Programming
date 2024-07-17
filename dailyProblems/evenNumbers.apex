@@ -1,4 +1,4 @@
-public class EvenNumbers 
+public class EvenNumber
 {
    public static void evenNum()
    {
